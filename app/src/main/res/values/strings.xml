@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Practica6</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="mostrar">MostrarRegistro</string>
+    <string name="registrar">Registrar</string>
+    <string name="Editar">Editar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="eLibro">Nombre de libro</string>
+    <string name="eId">Id</string>
+    <string name="eAutor">Nombre del Autor</string>
+    <string name="ePersona">Nombre Usuario</string>
+    <string name="eTelefono">Teléfono</string>
+    <string name="Add">Agregar</string>
+    <string name="delete">Eliminar</string>
+    <string name="Consultar2">Consultar</string>
+    <string name="save">Guardar</string>
+</resources>
